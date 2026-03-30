@@ -58,8 +58,8 @@ my-mini-games/
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/mini-games-project.git
-cd mini-games-project
+git clone https://github.com/Boorkey/my-mini-games
+cd my-mini-games
 ```
 
 ---
